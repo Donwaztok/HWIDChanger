@@ -1,0 +1,11 @@
+[Translation]
+BTN_HWID=Change HWID
+ChangeAll=Change All
+TB_HWID=Time Based HWID
+Tip1=Only Hexadecimal Values: 0-9, A,B,C,D,E,F.
+Tip2=After change, please reboot your machine
+Tip3=Custom Command
+Message1=Hardware ID has been Changed! You need to Reboot System Now!
+Message2=Do you want to Reboot now?
+Yes=Yes
+No=Not Now

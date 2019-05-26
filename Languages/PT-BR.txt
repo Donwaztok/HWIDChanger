@@ -1,0 +1,11 @@
+[Translation]
+BTN_HWID=Trocar HWID
+ChangeAll=Trocar Todos
+TB_HWID=HWID Baseado na Hora
+Tip1=Somente Valores Hexadecimais: 0-9,A,B,C,D,E,F.
+Tip2=Depois da Troca, Por Favor Reinicie sua Maquina
+Tip3=Comando Personalizado
+Message1=ID de Hardware foi Modificado, Voce precisa reinicar agora!
+Message2=Voce deseja reiniciar agora?
+Yes=Sim
+No=Agora não
